@@ -1,7 +1,7 @@
 # generate-doc-sublime-text-plugin-
 A sublime text3 plugin for conveniently generate doc
 
-Automatically generate the "@brief,@param " and so on.Note,only support C# now!
+Automatically generate the "@brief,@param " and so on.Modify your shortcuts in the configure file.Note,only support C# now!
 Here are some samples:
 
 
